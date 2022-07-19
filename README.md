@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tushar17012
-- 👀 I’m interested in web development and embedded Development.
+- 👀 I’m interested in web development and Software Development.
 
-- 🌱 I’m currently learning angular.js, react.js and node.js.
+- 🌱 I’m currently learning react.js and node.js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
